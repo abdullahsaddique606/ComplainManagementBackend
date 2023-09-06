@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplainManagement", "ComplainManagement\ComplainManagement.csproj", "{493068A7-3470-4302-8F23-492CD52D3339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplainMgt.Services", "ComplainMgt.Services\ComplainMgt.Services.csproj", "{DFA92DB3-ED1F-45FC-86E7-F2D74263B164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493068A7-3470-4302-8F23-492CD52D3339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493068A7-3470-4302-8F23-492CD52D3339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493068A7-3470-4302-8F23-492CD52D3339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493068A7-3470-4302-8F23-492CD52D3339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA92DB3-ED1F-45FC-86E7-F2D74263B164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA92DB3-ED1F-45FC-86E7-F2D74263B164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA92DB3-ED1F-45FC-86E7-F2D74263B164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA92DB3-ED1F-45FC-86E7-F2D74263B164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB88DD2-D746-46EF-A4F9-3B1DD75F9B7F}
+	EndGlobalSection
+EndGlobal

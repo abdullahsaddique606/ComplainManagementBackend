@@ -1,0 +1,12 @@
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\bin\Debug\net6.0\ComplainMgt.Services.deps.json
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\bin\Debug\net6.0\ComplainMgt.Services.dll
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\bin\Debug\net6.0\ComplainMgt.Services.pdb
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.csproj.AssemblyReference.cache
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.AssemblyInfoInputs.cache
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.AssemblyInfo.cs
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.csproj.CoreCompileInputs.cache
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.dll
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\refint\ComplainMgt.Services.dll
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ComplainMgt.Services.pdb
+D:\dotnet\c#-practice\ComplainManagement\ComplainMgt.Services\obj\Debug\net6.0\ref\ComplainMgt.Services.dll
